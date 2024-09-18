@@ -3,7 +3,6 @@ import { fetchHourlyVolume } from 'utils/account'
 import useMangoAccount from './useMangoAccount'
 
 export default function useAccountHourlyVolumeStats() {
-  const { mangoAccountAddress } = useMangoAccount()
 
   const {
     data: hourlyVolumeData,
