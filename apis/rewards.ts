@@ -5,11 +5,7 @@ import { AnchorProvider } from '@coral-xyz/anchor'
 
 export const DISTRIBUTION_NUMBER_PREFIX = 135
 
-type AccountTier = {
-  mango_account: string
-  streak_multiplier_percent: number
-  tier: string
-}
+
 
 type AccountPointsAndRank = {
   mango_account: string
