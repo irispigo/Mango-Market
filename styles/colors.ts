@@ -17,6 +17,7 @@ export const COLORS: Record<string, Record<string, string>> = {
     'Mango Classic': '#282433',
     Dark: '#1d1d20',
     Light: '#f0f0f0',
+    'High Contrast': '#121212',
     Avocado: '#133527',
     Medium: '#29292e',
     Blueberry: '#112f73',
