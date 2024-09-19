@@ -1,6 +1,7 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { makeApiRequest, parseResolution } from './birdeye/helpers'
 import {
+  makeApiRequest as makePerpApiRequest,
   parseResolution as parsePerpResolution,
 } from './mngo/helpers'
 import {
