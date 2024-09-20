@@ -1,4 +1,3 @@
-import { WHITE_LIST_API } from 'utils/constants'
 
 export type WhiteListedResp = {
   found: boolean
