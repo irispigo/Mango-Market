@@ -1,4 +1,3 @@
-import { useQuery } from '@tanstack/react-query'
 import { fetchHourlyVolume } from 'utils/account'
 import useMangoAccount from './useMangoAccount'
 
