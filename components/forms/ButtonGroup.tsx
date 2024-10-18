@@ -1,4 +1,3 @@
-type Values = string | number
 
 interface ButtonGroupProps<T extends Values> {
   activeValue: T
