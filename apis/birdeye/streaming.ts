@@ -1,5 +1,4 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
-import { parseResolution, getNextBarTime, socketUrl } from './helpers'
 
 let subscriptionItem: any = {}
 
