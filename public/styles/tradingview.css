@@ -1,3 +1,4 @@
+:root:not(.theme-dark) {
   --black: #fff;
   --primary: #ff9c24;
   --bkg-light: rgba(0, 0, 0, 0.05);
