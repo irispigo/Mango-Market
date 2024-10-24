@@ -2,7 +2,6 @@
  * @jest-environment node
  */
 
-import { Connection } from '@solana/web3.js'
 import { getClient, getGroupForClient } from './utils'
 import { Group, MangoClient } from '@blockworks-foundation/mango-v4'
 import { getFormattedBankValues } from 'utils/governance/listingTools'
