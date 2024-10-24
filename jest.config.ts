@@ -1,4 +1,3 @@
-import nextJest from 'next/jest'
 
 const customConfig = {
   moduleDirectories: ['node_modules', '<rootDir>/'],
