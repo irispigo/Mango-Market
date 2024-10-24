@@ -1,3 +1,4 @@
+const { i18n } = require('./next-i18next.config')
 const webpack = require('webpack')
 const { withSentryConfig } = require('@sentry/nextjs')
 
