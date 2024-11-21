@@ -1,3 +1,4 @@
+import { useEffect, useMemo, useState } from 'react'
 import PerpMarketsTable from './PerpMarketsTable'
 import mangoStore from '@store/mangoStore'
 import RecentGainersLosers from './RecentGainersLosers'
